@@ -54,6 +54,8 @@ I didn't do any work around bypassing anticheat, so this only works on private s
 2. Launch CSGO
 3. Run the executable 
 
+**Just a heads-up: I just realized most browsers will flag the executable as a virus when you try to download it. So you’ll probably need to disable your browser’s antivirus as well temporarily—at least until Julie Oh figures out a clever workaround. haha...haha...ha...tears**  
+
 Double-check you see `csgo_multihack_01.dll` in the same folder the executable `DLLInjector_csgo.multihack.exe` is saved. Also, make sure CSGO is already running before you launch the cheat. 
 
 ---
