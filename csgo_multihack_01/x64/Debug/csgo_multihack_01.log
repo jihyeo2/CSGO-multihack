@@ -1,0 +1,272 @@
+﻿  drawing.cpp
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(72,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(72,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(72,18): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(73,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(73,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(73,18): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(117,12): error C3646: 'health': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(117,19): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(117,52): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(118,12): error C3646: 'armor': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(118,18): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(118,52): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(119,12): error C3646: 'crosshair': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(119,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(119,57): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(121,13): error C3646: 'esp': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(121,17): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(121,48): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(122,13): error C3646: 'snapline': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(122,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(122,53): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(123,13): error C3646: 'velocity': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(123,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(123,53): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(124,13): error C3646: 'headline': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(124,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(124,53): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(127,13): error C3646: 'esp': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(127,17): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(127,48): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(128,13): error C3646: 'snapline': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(128,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(128,53): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(129,13): error C3646: 'velocity': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(129,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(129,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(130,13): error C3646: 'headline': unknown override specifier
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(130,22): error C2059: syntax error: '='
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(130,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.h(5,49): error C2061: syntax error: identifier 'D3DCOLOR'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.h(7,62): error C2061: syntax error: identifier 'D3DCOLOR'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.h(8,50): error C2061: syntax error: identifier 'D3DCOLOR'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.h(10,54): error C2061: syntax error: identifier 'D3DCOLOR'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.h(12,74): error C2061: syntax error: identifier 'D3DCOLOR'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.h(14,51): error C2061: syntax error: identifier 'D3DCOLOR'
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(39,13): error C2039: 'LineL': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(40,34): error C2039: 'LineL': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(40,3): error C2660: 'D3DXCreateLine': function does not take 1 arguments
+  (compiling source file '/drawing.cpp')
+      D:\Program Files\Microsoft DirectX SDK (June 2010)\Include\d3dx9core.h(744,5):
+      see declaration of 'D3DXCreateLine'
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(40,3):
+      while trying to match the argument list '(LPDIRECT3DDEVICE9)'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(43,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(43,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(44,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(44,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(45,8): error C2039: 'LineL': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(46,8): error C2039: 'LineL': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(52,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(52,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(52,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(52,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(57,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(76,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(80,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(81,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(83,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(84,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(86,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(87,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(89,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(90,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(135,13): error C2039: 'FontF': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(136,159): error C2039: 'FontF': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(136,3): error C2660: 'D3DXCreateFontW': function does not take 11 arguments
+  (compiling source file '/drawing.cpp')
+      D:\Program Files\Microsoft DirectX SDK (June 2010)\Include\d3dx9core.h(396,5):
+      see declaration of 'D3DXCreateFontW'
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(136,3):
+      while trying to match the argument list '(LPDIRECT3DDEVICE9, int, int, int, int, bool, int, int, int, int, const wchar_t [6])'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(142,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(142,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(142,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(142,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(143,8): error C2039: 'FontF': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(146,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(146,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(146,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(146,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/drawing.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\drawing.cpp(147,8): error C2039: 'FontF': is not a member of 'Hack'
+  (compiling source file '/drawing.cpp')
+      D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hack.h(61,7):
+      see declaration of 'Hack'
+  
+  dx.cpp
+  hook.cpp
+  Generating Code...
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hook.cpp(22,1): warning C4715: 'Hook': not all control paths return a value

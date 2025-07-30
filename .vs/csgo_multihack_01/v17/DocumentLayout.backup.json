@@ -1,0 +1,580 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yuiop\\Downloads\\csgo_multihack_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\traceobjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\traceobjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Hacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Hacks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\hack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Hacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Hacks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\dx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\dx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\drawing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\drawing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Glowhack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Glowhack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Triggerbot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Triggerbot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Triggerbot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Triggerbot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Ent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Ent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\LocalPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\LocalPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\hack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\hook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Glowhack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Glowhack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\GlowConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\GlowConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\CUtlVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\CUtlVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\drawing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\drawing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Vector4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Vector4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Patternscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Patternscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Signatures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Signatures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Patternscan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Patternscan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Signatures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7DB578F-7CF0-4D4B-AB2C-50F4955DAB91}|csgo_multihack_01\\csgo_multihack_01.vcxproj|solutionrelative:csgo_multihack_01\\Signatures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hacks.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Hacks.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Hacks.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Hacks.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\Hacks.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T18:45:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hack.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hack.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\hack.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hack.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\hack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-27T02:09:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Offsets.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Offsets.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Offsets.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Offsets.h",
+              "RelativeToolTip": "csgo_multihack_01\\Offsets.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-27T02:17:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dllmain.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\dllmain.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dllmain.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\dllmain.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAOEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T04:01:22.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dx.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dx.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\dx.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dx.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\dx.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T22:57:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "drawing.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\drawing.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\drawing.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\drawing.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\drawing.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T22:57:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Traceobjects.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Traceobjects.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Traceobjects.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Traceobjects.h",
+              "RelativeToolTip": "csgo_multihack_01\\Traceobjects.h",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAAP4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T20:33:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Glowhack.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Glowhack.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Glowhack.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Glowhack.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\Glowhack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T04:40:59.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\pch.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\pch.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\pch.h",
+              "RelativeToolTip": "csgo_multihack_01\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T23:16:12.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "hack.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hack.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\hack.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hack.h",
+              "RelativeToolTip": "csgo_multihack_01\\hack.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T03:05:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hacks.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Hacks.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Hacks.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Hacks.h",
+              "RelativeToolTip": "csgo_multihack_01\\Hacks.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T18:17:47.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Player.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Player.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Player.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\Player.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-27T02:17:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ent.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Ent.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Ent.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Ent.h",
+              "RelativeToolTip": "csgo_multihack_01\\Ent.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-27T02:17:34.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interface.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\interface.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\interface.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\interface.h",
+              "RelativeToolTip": "csgo_multihack_01\\interface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-26T23:02:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "interface.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\interface.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\interface.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\interface.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\interface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T22:40:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocalPlayer.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\LocalPlayer.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\LocalPlayer.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\LocalPlayer.h",
+              "RelativeToolTip": "csgo_multihack_01\\LocalPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T04:51:24.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Triggerbot.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Triggerbot.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Triggerbot.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Triggerbot.h",
+              "RelativeToolTip": "csgo_multihack_01\\Triggerbot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T22:00:42.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dx.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dx.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\dx.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\dx.h",
+              "RelativeToolTip": "csgo_multihack_01\\dx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T22:56:25.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "includes.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\includes.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\includes.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\includes.h",
+              "RelativeToolTip": "csgo_multihack_01\\includes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T23:58:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Player.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Player.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Player.h",
+              "RelativeToolTip": "csgo_multihack_01\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T23:57:38.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vector3.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Vector3.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Vector3.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Vector3.h",
+              "RelativeToolTip": "csgo_multihack_01\\Vector3.h",
+              "ViewState": "AgIAALAAAAAAAAAAAAAqwOcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T03:59:49.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Triggerbot.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Triggerbot.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Triggerbot.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Triggerbot.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\Triggerbot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T04:54:43.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Glowhack.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Glowhack.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Glowhack.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Glowhack.h",
+              "RelativeToolTip": "csgo_multihack_01\\Glowhack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-18T04:39:27.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GlowConfig.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\GlowConfig.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\GlowConfig.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\GlowConfig.h",
+              "RelativeToolTip": "csgo_multihack_01\\GlowConfig.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-18T04:38:09.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CUtlVector.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\CUtlVector.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\CUtlVector.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\CUtlVector.h",
+              "RelativeToolTip": "csgo_multihack_01\\CUtlVector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-18T04:37:36.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "drawing.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\drawing.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\drawing.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\drawing.h",
+              "RelativeToolTip": "csgo_multihack_01\\drawing.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T22:56:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\framework.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\framework.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\framework.h",
+              "RelativeToolTip": "csgo_multihack_01\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T23:16:07.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "hook.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hook.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\hook.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\hook.h",
+              "RelativeToolTip": "csgo_multihack_01\\hook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-17T22:56:45.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Vector4.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Vector4.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Vector4.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Vector4.h",
+              "RelativeToolTip": "csgo_multihack_01\\Vector4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T17:37:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Patternscan.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Patternscan.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Patternscan.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Patternscan.h",
+              "RelativeToolTip": "csgo_multihack_01\\Patternscan.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-18T04:40:13.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Signatures.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Signatures.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Signatures.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Signatures.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\Signatures.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T05:08:10.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\pch.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\pch.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\pch.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T23:16:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Patternscan.cpp",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Patternscan.cpp",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Patternscan.cpp",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Patternscan.cpp",
+              "RelativeToolTip": "csgo_multihack_01\\Patternscan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T04:41:23.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Signatures.h",
+              "DocumentMoniker": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Signatures.h",
+              "RelativeDocumentMoniker": "csgo_multihack_01\\Signatures.h",
+              "ToolTip": "D:\\yuiop\\Downloads\\csgo_multihack_01\\csgo_multihack_01\\Signatures.h",
+              "RelativeToolTip": "csgo_multihack_01\\Signatures.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-18T05:07:55.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

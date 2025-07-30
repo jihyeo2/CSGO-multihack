@@ -1,0 +1,12 @@
+﻿  Hacks.cpp
+  hook.cpp
+  LocalPlayer.cpp
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\LocalPlayer.cpp(57,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/LocalPlayer.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\LocalPlayer.cpp(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/LocalPlayer.cpp')
+  
+  Generating Code...
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hook.cpp(24,1): warning C4715: 'Hook': not all control paths return a value
+  csgo_multihack_01.vcxproj -> D:\yuiop\Downloads\csgo_multihack_01\Debug\csgo_multihack_01.dll

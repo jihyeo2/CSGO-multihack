@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Hacks">
+      <UniqueIdentifier>{f0186b55-0e0b-4bd4-8f20-aff28e3fad82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Hacks\Triggerbot">
+      <UniqueIdentifier>{17834111-632d-4798-afde-ddc4aed51ffb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Hacks\GlowHack">
+      <UniqueIdentifier>{61c4b8fc-4d83-49cf-a534-1777e7cc878d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Hacks\ESP">
+      <UniqueIdentifier>{dccee1b3-a026-4cfd-966a-c574a804e670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{2538b24a-83e2-4ca6-8b95-33981224be75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils\PatternScan">
+      <UniqueIdentifier>{a88f350a-9c53-4941-a3fd-a2d3fb689ad3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Misc">
+      <UniqueIdentifier>{4f9d18c3-8823-47f3-902b-8c9e885e0026}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hacks">
+      <UniqueIdentifier>{d0462eb7-b7ab-4c04-becf-9c89d62f5562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hacks\ESP">
+      <UniqueIdentifier>{aaabadd9-9637-47b8-9539-eb922e07b449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hacks\GlowHack">
+      <UniqueIdentifier>{108409cf-be5a-41d1-a30a-be552f41b20e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hacks\Triggerbot">
+      <UniqueIdentifier>{04205a4a-4db1-4871-b764-2dca67eb2ef6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils">
+      <UniqueIdentifier>{5260ab25-2e75-4759-ab21-2aff3acb26c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils\PatternScan">
+      <UniqueIdentifier>{fd379f27-e9fc-4313-84c6-e43d0f0b143f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects">
+      <UniqueIdentifier>{70d2aeaa-e3d5-4e57-8b61-787bf53ee454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects\Vectors">
+      <UniqueIdentifier>{8fdbbe47-84ea-4c18-ae5f-00d10cfe358d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Objects">
+      <UniqueIdentifier>{ddf29fd5-dcaa-40f0-b06d-299a94de7e73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Header Files\Objects\Vectors</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector4.h">
+      <Filter>Header Files\Objects\Vectors</Filter>
+    </ClInclude>
+    <ClInclude Include="Vectors.h">
+      <Filter>Header Files\Objects\Vectors</Filter>
+    </ClInclude>
+    <ClInclude Include="CUtlVector.h">
+      <Filter>Header Files\Hacks\GlowHack</Filter>
+    </ClInclude>
+    <ClInclude Include="GlowConfig.h">
+      <Filter>Header Files\Hacks\GlowHack</Filter>
+    </ClInclude>
+    <ClInclude Include="Glowhack.h">
+      <Filter>Header Files\Hacks\GlowHack</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.h">
+      <Filter>Header Files\Hacks\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="dx.h">
+      <Filter>Header Files\Hacks\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="Patternscan.h">
+      <Filter>Header Files\Utils\PatternScan</Filter>
+    </ClInclude>
+    <ClInclude Include="Signatures.h">
+      <Filter>Header Files\Utils\PatternScan</Filter>
+    </ClInclude>
+    <ClInclude Include="Triggerbot.h">
+      <Filter>Header Files\Hacks\Triggerbot</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalPlayer.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Ent.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks.h">
+      <Filter>Header Files\Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Traceobjects.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="interface.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.h">
+      <Filter>Header Files\Objects\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Triggerbot.cpp">
+      <Filter>Source Files\Hacks\Triggerbot</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>Source Files\Hacks\ESP</Filter>
+    </ClCompile>
+    <ClCompile Include="dx.cpp">
+      <Filter>Source Files\Hacks\ESP</Filter>
+    </ClCompile>
+    <ClCompile Include="Glowhack.cpp">
+      <Filter>Source Files\Hacks\GlowHack</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalPlayer.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Patternscan.cpp">
+      <Filter>Source Files\Utils\PatternScan</Filter>
+    </ClCompile>
+    <ClCompile Include="hook.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Signatures.cpp">
+      <Filter>Source Files\Utils\PatternScan</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks.cpp">
+      <Filter>Source Files\Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="interface.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
