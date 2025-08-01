@@ -65,9 +65,9 @@ Double-check you see `csgo_multihack_01.dll` in the same folder the executable `
 
 I wrote posts for a few of the parts I found interesting to talk about.
 
-- [Aimbot - Not about calcAngle...then what? Hint: Ray](/16th/posts/aimbot)
-- [ESP - I made my 3D box spin...pretty cool huh. And I can't make it stop, I gotta fix my code)](/16th/posts/esp)
-- [GlowObjectManager - Took me 5 days to figure it out. If you can make it faster, I will...](/16th/posts/glowobjectmanager)
+- [Aimbot - Not about calcAngle...then what? Hint: Ray](https://jihyeo2.github.io/16th/posts/aimbot)
+- [ESP - I made my 3D box spin...pretty cool huh. And I can't make it stop, I gotta fix my code)](https://jihyeo2.github.io/16th/posts/esp)
+- [GlowObjectManager - Took me 5 days to figure it out. If you can make it faster, I will...](https://jihyeo2.github.io/16th/posts/glowobjectmanager)
 
 ---
 
