@@ -1,12 +1,134 @@
-﻿  Hacks.cpp
-  hook.cpp
-  LocalPlayer.cpp
-D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\LocalPlayer.cpp(57,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  (compiling source file '/LocalPlayer.cpp')
+﻿  dllmain.cpp
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(21,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
   
-D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\LocalPlayer.cpp(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  (compiling source file '/LocalPlayer.cpp')
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(21,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
   
-  Generating Code...
-D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\hook.cpp(24,1): warning C4715: 'Hook': not all control paths return a value
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(29,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(29,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(32,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(32,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(33,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(33,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(34,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(34,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(36,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(36,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(38,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(38,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(39,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(39,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(40,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(40,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(41,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(41,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(42,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(42,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(43,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(43,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(44,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(44,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(45,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(45,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(46,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(46,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(47,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(47,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(48,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(48,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(50,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(50,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(116,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(116,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(121,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(121,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(133,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(134,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(140,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+D:\yuiop\Downloads\csgo_multihack_01\csgo_multihack_01\dllmain.cpp(141,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
   csgo_multihack_01.vcxproj -> D:\yuiop\Downloads\csgo_multihack_01\Debug\csgo_multihack_01.dll

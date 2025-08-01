@@ -60,20 +60,20 @@ public:
 
 	struct Buttons {
 		DWORD showMenuBtn = VK_INSERT;
-		DWORD aimbotBtn = VK_F1;
-		DWORD triggerbotBtn = VK_F2;
-		DWORD rcsBtn = VK_F3;
-		DWORD radarBtn = VK_F4;
-		DWORD glowBtn = VK_F5;
-		DWORD showTeammatesBtn = VK_F6;
-		DWORD snaplinesBtn = VK_F7;
-		DWORD box2DBtn = VK_F8;
-		DWORD status2DBtn = VK_F9;
-		DWORD statusTextBtn = VK_F11;
-		DWORD box3DBtn = VK_HOME;
-		DWORD velEspBtn = VK_DELETE;
-		DWORD headlineEspBtn = VK_PRIOR;
-		DWORD rcsCrosshairBtn = VK_NEXT;
+		DWORD aimbotBtn = VK_XBUTTON2;
+		DWORD triggerbotBtn = VK_XBUTTON1;
+		DWORD rcsBtn = VK_F1;
+		DWORD radarBtn = VK_F2;
+		DWORD glowBtn = VK_F3;
+		DWORD showTeammatesBtn = VK_F4;
+		DWORD snaplinesBtn = VK_F5;
+		DWORD box2DBtn = VK_F6;
+		DWORD status2DBtn = VK_F7;
+		DWORD statusTextBtn = VK_F8;
+		DWORD box3DBtn = VK_F9;
+		DWORD velEspBtn = VK_F11;
+		DWORD headlineEspBtn = VK_HOME;
+		DWORD rcsCrosshairBtn = VK_DELETE;
 	} buttons;
 
 	struct Colors {

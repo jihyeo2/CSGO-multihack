@@ -36,7 +36,7 @@ bool LocalPlayer::CanSeeEntity(Player* player)
 
 	// fraction of a ray: how far it travelled before hitting anything (always valid)
 	// ex) 1.f -> travelled the whole distance unobstructed, 0.5f -> hit something half way
-	return (trace.fraction > 0.97f && (Ent*)player->GetEnt() == (Ent*)trace.hit_entity);
+	return (trace.fraction > 0.97f || (Ent*)player->GetEnt() == (Ent*)trace.hit_entity);
 }
 
 void LocalPlayer::AimAt(Vector3 target) // target's head position vector

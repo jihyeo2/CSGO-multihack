@@ -29,23 +29,23 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
         DrawText("Show Menu (INS)", menuOffX, menuOffY, D3DCOLOR_ARGB(255, 255, 255, 255));
     }
     else {
-        DrawText("Aimbot (F1)", menuOffX, menuOffY + 0 * 12, hack->settings.aimbot ? enabled : disabled);
-        DrawText("Triggerbot (F2)", menuOffX, menuOffY + 1 * 12, hack->settings.triggerbot ? enabled : disabled);
-        DrawText("Recoil (F3)", menuOffX, menuOffY + 2 * 12, hack->settings.rcs ? enabled : disabled);
+        DrawText("Aimbot (Mouse Side Button-Front)", menuOffX, menuOffY + 0 * 12, hack->settings.aimbot ? enabled : disabled);
+        DrawText("Triggerbot (Mouse Side Button-Back)", menuOffX, menuOffY + 1 * 12, hack->settings.triggerbot ? enabled : disabled);
+        DrawText("Recoil (F1)", menuOffX, menuOffY + 2 * 12, hack->settings.rcs ? enabled : disabled);
 
 		DrawText("-------- ESP --------", menuOffX, menuOffY + 3 * 12, D3DCOLOR_ARGB(255, 255, 255, 255));
 
-        DrawText("Radar (F4)", menuOffX, menuOffY + 4 * 12, hack->settings.radar ? enabled : disabled);
-        DrawText("Glow (F5)", menuOffX, menuOffY + 5 * 12, hack->settings.glow ? enabled : disabled);
-        DrawText("Show Teammates (F6)", menuOffX, menuOffY + 6 * 12, hack->settings.showTeammates ? enabled : disabled);
-        DrawText("Snaplines (F7)", menuOffX, menuOffY + 7 * 12, hack->settings.snaplines ? enabled : disabled);
-        DrawText("2D Box (F8)", menuOffX, menuOffY + 8 * 12, hack->settings.box2D ? enabled : disabled);
-        DrawText("2D Status Bars (F9)", menuOffX, menuOffY + 9 * 12, hack->settings.status2D ? enabled : disabled);
-        DrawText("Status Text (F11)", menuOffX, menuOffY + 10 * 12, hack->settings.statusText ? enabled : disabled);
-        DrawText("3D Box (Home)", menuOffX, menuOffY + 11 * 12, hack->settings.box3D ? enabled : disabled);
-        DrawText("Velocity Esp (Delete)", menuOffX, menuOffY + 12 * 12, hack->settings.velEsp ? enabled : disabled);
-        DrawText("Headline Esp (PgUp)", menuOffX, menuOffY + 13 * 12, hack->settings.headlineEsp ? enabled : disabled);
-        DrawText("Recoil crosshair (PgDn)", menuOffX, menuOffY + 14 * 12, hack->settings.rcsCrosshair ? enabled : disabled);
+        DrawText("Radar (F2)", menuOffX, menuOffY + 4 * 12, hack->settings.radar ? enabled : disabled);
+        DrawText("Glow (F3)", menuOffX, menuOffY + 5 * 12, hack->settings.glow ? enabled : disabled);
+        DrawText("Show Teammates (F4)", menuOffX, menuOffY + 6 * 12, hack->settings.showTeammates ? enabled : disabled);
+        DrawText("Snaplines (F5)", menuOffX, menuOffY + 7 * 12, hack->settings.snaplines ? enabled : disabled);
+        DrawText("2D Box (F6)", menuOffX, menuOffY + 8 * 12, hack->settings.box2D ? enabled : disabled);
+        DrawText("2D Status Bars (F7)", menuOffX, menuOffY + 9 * 12, hack->settings.status2D ? enabled : disabled);
+        DrawText("Status Text (F8)", menuOffX, menuOffY + 10 * 12, hack->settings.statusText ? enabled : disabled);
+        DrawText("3D Box (F9)", menuOffX, menuOffY + 11 * 12, hack->settings.box3D ? enabled : disabled);
+        DrawText("Velocity Esp (F11)", menuOffX, menuOffY + 12 * 12, hack->settings.velEsp ? enabled : disabled);
+        DrawText("Headline Esp (Home)", menuOffX, menuOffY + 13 * 12, hack->settings.headlineEsp ? enabled : disabled);
+        DrawText("Recoil crosshair (Delete)", menuOffX, menuOffY + 14 * 12, hack->settings.rcsCrosshair ? enabled : disabled);
 
         DrawText("Hide Menu (INS)", menuOffX, menuOffY + 15 * 12, D3DCOLOR_ARGB(255, 255, 255, 255));
     }

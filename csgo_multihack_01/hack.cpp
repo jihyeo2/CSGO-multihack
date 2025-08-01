@@ -27,12 +27,15 @@ void Hack::Update() {
 }
 
 void Hack::CheckButtons() {
+	settings.aimbot = GetAsyncKeyState(buttons.aimbotBtn) & KEYDOWN; 
+	settings.triggerbot = GetAsyncKeyState(buttons.triggerbotBtn) & KEYDOWN;
+
 	if (GetAsyncKeyState(buttons.showMenuBtn) & KEYPRESSED)
 		settings.showMenu = !settings.showMenu;
-	if (GetAsyncKeyState(buttons.aimbotBtn) & KEYPRESSED)
-		settings.aimbot = !settings.aimbot;
-	if (GetAsyncKeyState(buttons.triggerbotBtn) & KEYPRESSED)
-		settings.triggerbot = !settings.triggerbot;
+	//if (GetAsyncKeyState(buttons.aimbotBtn) & KEYDOWN)
+	//	settings.aimbot = !settings.aimbot;
+	//if (GetAsyncKeyState(buttons.triggerbotBtn) & KEYDOWN)
+	//	settings.triggerbot = !settings.triggerbot;
 	if (GetAsyncKeyState(buttons.rcsBtn) & KEYPRESSED)
 		settings.rcs = !settings.rcs;
 	if (GetAsyncKeyState(buttons.radarBtn) & KEYPRESSED)
