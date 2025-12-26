@@ -2,8 +2,36 @@
 #include "includes.h"
 
 #include <iostream>
+#include <chrono>
+#include <string>
 
 extern Hack* hack;
+
+struct AimbotProfile
+{
+	double total = 0.0;
+	double findClosest = 0.0;
+	double aim = 0.0;
+	int samples = 0;
+
+	void Log()
+	{
+		if (samples > 0 && samples % 300 == 0)
+		{
+			std::string msg =
+				"avg total: " + std::to_string(total / samples) + " | "
+				+ "findClosest: " + std::to_string(findClosest / samples) + "|"
+				+ "aim: " + std::to_string(aim / samples) + "\n";
+
+			OutputDebugStringA(msg.c_str());
+
+			total = findClosest = aim = 0.0;
+			samples = 0;
+		}
+	}
+};
+
+static AimbotProfile aimbotProfile;
 
 Player* GetClosestEnemy()
 {
@@ -62,10 +90,30 @@ Player* GetClosestEnemy()
 
 void RunAimbot()
 {
+	using clock = std::chrono::steady_clock;
+
+	auto t0 = clock::now();
+
 	Player* closestEnemy = GetClosestEnemy();
 
-	if (closestEnemy)
+	auto t1 = clock::now();
+	auto t2 = t1;
+
+	if (closestEnemy) {
 		hack->localPlayer->AimAt(closestEnemy->GetBonePos(8)); // 8: head
+		t2 = clock::now();
+	}
+
+	double findClosest = std::chrono::duration_cast<std::chrono::microseconds>(t1 - t0).count();
+	double aim = std::chrono::duration_cast<std::chrono::microseconds>(t2 - t1).count();
+	double total = std::chrono::duration_cast<std::chrono::microseconds>(t2 - t0).count();
+
+	aimbotProfile.findClosest += findClosest;
+	aimbotProfile.aim += aim;
+	aimbotProfile.total += total;
+	aimbotProfile.samples++;
+
+	aimbotProfile.Log();
 }
 
 void RunRadarhack()
@@ -83,7 +131,7 @@ void RunRadarhack()
 	}
 }
 
-static Vector3 oPunch = Vector3( 0.f, 0.f, 0.f );
+static Vector3 oPunch = Vector3(0.f, 0.f, 0.f);
 
 void RunRCShack()
 {
@@ -124,7 +172,7 @@ void TeleportToEnemy()
 		}
 
 		float distanceBehind = 50.0f;
-		
+
 		float yawRad = atan2(enemyVelocity->y, enemyVelocity->x);
 
 		Vector3 delta;

@@ -1,6 +1,8 @@
 #include "pch.h"
 #include "includes.h"
 
+#include <string>
+
 extern Hack* hack;
 
 LocalPlayer* LocalPlayer::Get()
@@ -47,6 +49,12 @@ void LocalPlayer::AimAt(Vector3 target) // target's head position vector
 
 	static Vector3 oPunch = Vector3(0.f, 0.f, 0.f);
 
+	static bool tracking = false;
+	static int frameStart = 0;
+	static int frameCounter = 0;
+
+	frameCounter++;
+
 	Vector3 origin = *GetOrigin();
 	Vector3 viewOffset = *GetViewOffset();
 	Vector3 sum = (origin + viewOffset); // localPlayer's eye position
@@ -62,14 +70,16 @@ void LocalPlayer::AimAt(Vector3 target) // target's head position vector
 	// RCS Integration
 	int shotsFired = *GetNumShotsFired();
 	if (shotsFired > 1) {
-		Vector3 punchAngle = *GetAimPunchAngle() * 2.0f;
-		pitch -= (oPunch.x - punchAngle.x);
-		yaw -= (oPunch.y - punchAngle.y);
-
-		oPunch = punchAngle;
+		Vector3* aimPunchAngle = GetAimPunchAngle();
+		Vector3 punchAngle = *aimPunchAngle * 2;
+		pitch -= punchAngle.x;
+		yaw -= punchAngle.y;
 	}
-	else {
-		oPunch = Vector3();
+
+	if (!tracking)
+	{
+		tracking = true;
+		frameStart = frameCounter;
 	}
 
 	// smoothing added
@@ -81,6 +91,14 @@ void LocalPlayer::AimAt(Vector3 target) // target's head position vector
 	{
 		viewAngles->x = updatedViewAngles.x;
 		viewAngles->y = updatedViewAngles.y;
+	}
+
+	if (fabs(angleDiff.x) < 0.1f && fabs(angleDiff.y) < 0.1f)
+	{
+		int framesTaken = frameCounter - frameStart;
+		std::string msg = "# of frames: " + std::to_string(framesTaken) + "\n";
+		OutputDebugStringA(msg.c_str());
+		tracking = false;
 	}
 }
 
