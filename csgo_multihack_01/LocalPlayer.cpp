@@ -45,6 +45,8 @@ void LocalPlayer::AimAt(Vector3 target) // target's head position vector
 	static Vector3* viewAngles = (Vector3*)(*(uint32_t*)(hack->engine +
 		hazedumper::signatures::dwClientState) + hazedumper::signatures::dwClientState_ViewAngles); // dwClientState_ViewAngles: current player's view angle; saved in engine.dll because it affects rendering, which is controlled by engine.dll, and has to be updated in real-time
 
+	static Vector3 oPunch = Vector3(0.f, 0.f, 0.f);
+
 	Vector3 origin = *GetOrigin();
 	Vector3 viewOffset = *GetViewOffset();
 	Vector3 sum = (origin + viewOffset); // localPlayer's eye position
@@ -56,8 +58,22 @@ void LocalPlayer::AimAt(Vector3 target) // target's head position vector
 	// because asin and atan2 functions return in radian, we have to convert the return values into degrees
 	float pitch = -asin(deltaVec.z / deltaVecLength) * (180 / PI); // added negative because when positive the character looks below not upwards to the target's head
 	float yaw = atan2(deltaVec.y, deltaVec.x) * (180 / PI);
+
+	// RCS Integration
+	int shotsFired = *GetNumShotsFired();
+	if (shotsFired > 1) {
+		Vector3 punchAngle = *GetAimPunchAngle() * 2.0f;
+		pitch -= (oPunch.x - punchAngle.x);
+		yaw -= (oPunch.y - punchAngle.y);
+
+		oPunch = punchAngle;
+	}
+	else {
+		oPunch = Vector3();
+	}
+
 	// smoothing added
-	float smoothing = 4.0f;
+	float smoothing = 1.0f;
 	Vector3 angleDiff = { (pitch - viewAngles->x) / smoothing, (yaw - viewAngles->y) / smoothing, 0 };
 	Vector3 updatedViewAngles = { viewAngles->x + angleDiff.x, viewAngles->y + angleDiff.y, 0 };
 
